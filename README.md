@@ -1,17 +1,16 @@
 # Povida_poang
-<img width="825" alt="MC1_오전_1팀_povida" src="https://user-images.githubusercontent.com/102846055/163680514-256027e5-84cc-4271-a458-c986b29428b2.png">
+![povida](https://user-images.githubusercontent.com/102846055/163681006-d30ea55c-a48c-4b8c-a835-09c59bca2ef6.png)
 
 # :iphone: Project Title
 
-A brief description of what this project does and who it's for
+An app that connects a job seeker and a professional via private mentoring.
 
 
 ## :pushpin: Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- 1:1 mentoring service
+- feedback service
+- A conversation using emoji
 
 
 ## :people_hugging: Authors
@@ -21,12 +20,11 @@ A brief description of what this project does and who it's for
 
 ## :framed_picture: Demo
 
-Insert!()
-[Uploading MC1_오전_1팀_povida.png…]
+[Poaeng Final.zip](https://github.com/wonny1012/Wonny/files/8500162/Poaeng.Final.zip)
+
 
 
 ## :fireworks: Screenshots
-
 ![App Screenshot](https://dummyimage.com/250x500/000/fff.png)
 ![App Screenshot](https://dummyimage.com/250x500/000/fff.png)
 ![App Screenshot](https://dummyimage.com/250x500/000/fff.png)
