@@ -1,6 +1,4 @@
-# Wonny
-![Logo]
-
+# Povida_poang
 <img width="825" alt="MC1_오전_1팀_povida" src="https://user-images.githubusercontent.com/102846055/163680514-256027e5-84cc-4271-a458-c986b29428b2.png">
 
 # :iphone: Project Title
